@@ -1,0 +1,17 @@
+p{
+color: royalblue;
+text-align: left;
+
+text-decoration-color: rgb(206, 8, 41);
+text-decoration-line: line-through;
+text-decoration-style: dotted;
+text-transform: capitalize;
+text-indent: 20px;
+letter-spacing: 0px;
+line-height: 2;
+word-spacing: 1px;}
+
+
+input{
+    direction: rtl;
+}
